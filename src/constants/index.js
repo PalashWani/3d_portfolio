@@ -244,7 +244,7 @@ const projects = [
     ],
     image: wander,
     source_code_link: "https://github.com/PalashWani/Booking_Backend",
-    deployed_link:"#",
+    // deployed_link:"#",
   },
 ];
 
